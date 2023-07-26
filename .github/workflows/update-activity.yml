@@ -1,8 +1,9 @@
-name: Update README
+name: Update README with Activities
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
