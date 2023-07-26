@@ -1,7 +1,3 @@
-# Why Hello There
-
-<img src="https://i.imgur.com/YBqg9JG.gif">
-
 ## Who Am I?
 
 I am a CIS student and System Analyst. I also try to do _some_ programming in my spare time.
