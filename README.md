@@ -1,6 +1,6 @@
 ## Who Am I?
 
-I am a CIS student and System Analyst. I also try to do _some_ programming in my spare time.
+I am a Computer Information Systems student and System Analyst. I also try to do _some_ programming in my spare time.
 
 Between work, volunteering, and sleeping I try to play the occasional 🎮 video game 🕹 or go camping ⛺.
 
