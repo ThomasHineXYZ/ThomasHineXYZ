@@ -36,10 +36,6 @@ While these lists might not be 100% accurate, these are what come to mind.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasHineXYZ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <!--     _______________________________________     -->
 <!--    / How'd you find me? I'm the Easter Egg \    -->
 <!--    \ Cow. Good job finding me.             /    -->
